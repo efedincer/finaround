@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @finaround
-- 👀 I’m interested in C# for Windows Form Applications / Godot for Game Development / Android Studio for Mobile Apps 
+- 👀 I’m interested in:
+      C# for Windows Form Applications
+      Godot for Game Development
+      Android Studio for Mobile Apps
+      Firebase for Data
 - 🌱 I’m currently learning so many things :)
 - 💞️ I’m looking to collaborate on some Game Projects
 - 📫 How to reach me ...
