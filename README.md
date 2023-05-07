@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @finaround
+- 👋 Hi, I’m @finaround, Im a software Developer since 2006
 - 👀 I’m interested in:
       C# for Windows Form Applications
-      Godot for Game Development
-      Android Studio for Mobile Apps
-      Firebase for Data
+      ASP.Net Core MVC for Web Apps
+      Godot for Game Development (as a hobby)
+      Android Studio for Mobile Apps (as a hobby)
+      MS SQL Server for DataBases
+      Firebase for learning other types of Data
 - 🌱 I’m currently learning so many things :)
-- 💞️ I’m looking to collaborate on some Game Projects
+- 💞️ I’m looking to collaborate on some Game Projects (workin on a 2D fighting game like retro ones)
 - 📫 How to reach me ...
 
 <!---
