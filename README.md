@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @finaround, Im a software Developer since 2006
+- 👋 Hi, I’m @finaround, Im a software Developer since 2004
 - 👀 I’m interested in:
       C# for Windows Form Applications
       ASP.Net Core MVC for Web Apps
